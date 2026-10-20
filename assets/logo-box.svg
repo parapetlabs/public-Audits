@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" role="img" aria-label="Parapet Labs">
+<defs><radialGradient id="g" cx="50%" cy="38%" r="60%"><stop offset="0" stop-color="#E8A33D" stop-opacity=".22"/><stop offset="1" stop-color="#E8A33D" stop-opacity="0"/></radialGradient>
+<pattern id="p" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#26262A" stroke-opacity=".45"/></pattern></defs>
+<rect width="300" height="300" fill="#0A0A0B"/><rect width="300" height="300" fill="url(#p)"/><rect width="300" height="300" fill="url(#g)"/>
+<g transform="translate(106 44) scale(.82)"><path d="M0 0H21V16H45.5V0H66.5V16H91V0H112V156H67.5V51.5L56 40L44.5 51.5V156H0Z M50.5 156V54L56 48.5L61.5 54V156Z" fill="#E8A33D" fill-rule="evenodd"/></g>
+<text x="150.0" y="222" text-anchor="middle" font-family="Space Grotesk,Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="1.5" fill="#EDEDEA">PARAPET LABS</text>
+<path d="M0 270H12V260H24V270H36V260H48V270H60V260H72V270H84V260H96V270H108V260H120V270H132V260H144V270H156V260H168V270H180V260H192V270H204V260H216V270H228V260H240V270H252V260H264V270H276V260H288V270H300V260H312V270" fill="none" stroke="#E8A33D" stroke-opacity=".5"/>
+<rect x=".5" y=".5" width="299" height="299" fill="none" stroke="#26262A"/></svg>
