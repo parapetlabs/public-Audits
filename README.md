@@ -1,16 +1,20 @@
 
-# Parapet Labs: public audits
+# Public audits
 
 
+<img src="assets/logo-box.svg" alt="Parapet Labs" width="150" align="left">
 
-<img src="assets/logo-box.svg" alt="Parapet Labs" width="220" align="left">
-
-  
 [Parapet Labs](https://parapetlabs.net) is a Web3 security firm. Through expert-led research and AI-assisted analysis, we help complex DeFi and Web3 protocols uncover critical vulnerabilities before attackers do.
+
+<br><br>
+<br><br>
 
 ## Read our published work
 
 This repository is the home of our public work: audit reports, contest findings and write-ups from our team, covering **EVM** and **Solana** protocols. Each report lists the findings by severity, where the issue is, what an attacker can do with it, and how to fix it.
+
+
+
 
 ## Engagements
 
@@ -86,4 +90,4 @@ This repository is the home of our public work: audit reports, contest findings 
 
 # Contact us
 
-[![Book a security review](https://file+.vscode-resource.vscode-cdn.net/mnt/084C37244C370BC6/Downloads/parapetlabs/site/Front%20-%20End/public-Audits/assets/btn-review.svg)](https://parapetlabs.net/#contact)  [![Email contact@parapetlabs.net](https://file+.vscode-resource.vscode-cdn.net/mnt/084C37244C370BC6/Downloads/parapetlabs/site/Front%20-%20End/public-Audits/assets/btn-email.svg)](mailto:contact@parapetlabs.net)  [![Telegram @mrzizah](https://file+.vscode-resource.vscode-cdn.net/mnt/084C37244C370BC6/Downloads/parapetlabs/site/Front%20-%20End/public-Audits/assets/btn-telegram.svg)](https://t.me/mrzizah)  [![Book a 30-minute call](https://file+.vscode-resource.vscode-cdn.net/mnt/084C37244C370BC6/Downloads/parapetlabs/site/Front%20-%20End/public-Audits/assets/btn-call.svg)](https://calendly.com/parapetlabs)  [![Website parapetlabs.net](https://file+.vscode-resource.vscode-cdn.net/mnt/084C37244C370BC6/Downloads/parapetlabs/site/Front%20-%20End/public-Audits/assets/btn-web.svg)](https://parapetlabs.net/)  [![X @parapetlabs](https://file+.vscode-resource.vscode-cdn.net/mnt/084C37244C370BC6/Downloads/parapetlabs/site/Front%20-%20End/public-Audits/assets/btn-x.svg)](https://x.com/parapetlabs)  [![LinkedIn Parapet Labs](https://file+.vscode-resource.vscode-cdn.net/mnt/084C37244C370BC6/Downloads/parapetlabs/site/Front%20-%20End/public-Audits/assets/btn-linkedin.svg)](https://www.linkedin.com/company/parapetlabs)
+[![Book a security review](assets/btn-review.svg)](https://parapetlabs.net/#contact)  [![Email contact@parapetlabs.net](assets/btn-email.svg)](mailto:contact@parapetlabs.net)  [![Telegram @mrzizah](assets/btn-telegram.svg)](https://t.me/mrzizah)  [![Book a 30-minute call](assets/btn-call.svg)](https://calendly.com/parapetlabs)  [![Website parapetlabs.net](assets/btn-web.svg)](https://parapetlabs.net/)  [![X @parapetlabs](assets/btn-x.svg)](https://x.com/parapetlabs)  [![LinkedIn Parapet Labs](assets/btn-linkedin.svg)](https://www.linkedin.com/company/parapetlabs)
